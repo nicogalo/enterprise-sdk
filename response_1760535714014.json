@@ -1,0 +1,939 @@
+{
+  "data": {
+    "version": "2.0",
+    "tables": {
+      "main": {
+        "headersDefinition": {
+          "columns": []
+        },
+        "definition": {
+          "columns": [
+            {
+              "id": "lineItem1",
+              "type": "string"
+            },
+            {
+              "id": "lineItem2",
+              "type": "string"
+            },
+            {
+              "id": "lineItem3",
+              "type": "string"
+            },
+            {
+              "id": "lineItem4",
+              "type": "string"
+            },
+            {
+              "id": "lineItem5",
+              "type": "string"
+            },
+            {
+              "id": "lineItem6",
+              "type": "string"
+            }
+          ]
+        },
+        "data": {
+          "rows": [
+            {
+              "rowType": "Header",
+              "cells": [
+                null,
+                "Jan '26",
+                "Jan '25",
+                "Jan '24",
+                "Jan '23",
+                "Jan '22"
+              ],
+              "headerCellDetails": {
+                "0": {
+                  "source": "PRIMARY",
+                  "columnIndex": 0
+                },
+                "1": {
+                  "source": "PRIMARY",
+                  "columnIndex": 1
+                },
+                "2": {
+                  "source": "PRIMARY",
+                  "columnIndex": 2
+                },
+                "3": {
+                  "source": "PRIMARY",
+                  "columnIndex": 3
+                },
+                "4": {
+                  "source": "PRIMARY",
+                  "columnIndex": 4
+                },
+                "5": {
+                  "source": "PRIMARY",
+                  "columnIndex": 5
+                }
+              }
+            },
+            {
+              "cells": [
+                "Revenue",
+                "207287.796875",
+                "130497.000000",
+                "60922.000000",
+                "26974.000000",
+                "26914.000000"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "FIN"
+                },
+                "scale": {
+                  "value": 6
+                }
+              }
+            },
+            {
+              "cells": [
+                "Gross Income",
+                "147748.687500",
+                "97858.000000",
+                "44301.000000",
+                "15356.000000",
+                "17475.000000"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "FIN"
+                },
+                "scale": {
+                  "value": 6
+                }
+              }
+            },
+            {
+              "cells": [
+                "Gross Margin (%)",
+                "71.277084",
+                "74.988697",
+                "72.717573",
+                "56.928894",
+                "64.929033"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "FIN"
+                },
+                "valueType": {
+                  "value": "PERCENTAGE"
+                }
+              }
+            },
+            {
+              "cells": [
+                "EBIT",
+                "129018.929688",
+                "81453.000000",
+                "32972.000000",
+                "5577.000000",
+                "10041.000000"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "FIN"
+                },
+                "scale": {
+                  "value": 6
+                }
+              }
+            },
+            {
+              "cells": [
+                "EBIT Margin (%)",
+                "62.241451",
+                "62.417527",
+                "54.121664",
+                "20.675465",
+                "37.307721"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "FIN"
+                },
+                "valueType": {
+                  "value": "PERCENTAGE"
+                }
+              }
+            },
+            {
+              "cells": [
+                "EBITDA",
+                "129442.125000",
+                "83317.000000",
+                "34480.000000",
+                "7121.000000",
+                "11215.000000"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "FIN"
+                },
+                "scale": {
+                  "value": 6
+                }
+              }
+            },
+            {
+              "cells": [
+                "EBITDA Margin (%)",
+                "62.445606",
+                "63.845912",
+                "56.596960",
+                "26.399496",
+                "41.669763"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "FIN"
+                },
+                "valueType": {
+                  "value": "PERCENTAGE"
+                }
+              }
+            },
+            {
+              "cells": [
+                "Net Income",
+                "110416.617188",
+                "72880.000000",
+                "29760.000000",
+                "4368.000000",
+                "9752.000000"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "FIN"
+                },
+                "scale": {
+                  "value": 6
+                }
+              }
+            },
+            {
+              "cells": [
+                "Net Margin (%)",
+                "53.267303",
+                "55.848027",
+                "48.849348",
+                "16.193371",
+                "36.233930"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "FIN"
+                },
+                "valueType": {
+                  "value": "PERCENTAGE"
+                }
+              }
+            },
+            {
+              "cells": [
+                "EPS (Diluted)",
+                "4.411169",
+                "2.938200",
+                "1.193300",
+                "0.174200",
+                "0.384700"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "FIN"
+                }
+              }
+            },
+            {
+              "cells": [
+                "Cash & ST INV",
+                "89639.000000",
+                "43210.000000",
+                "25984.000000",
+                "13296.000000",
+                "21208.000000"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "FIN"
+                },
+                "scale": {
+                  "value": 6
+                }
+              }
+            },
+            {
+              "cells": [
+                "Tot Assets",
+                "184535.953125",
+                "111601.000000",
+                "65728.000000",
+                "41182.000000",
+                "44187.000000"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "FIN"
+                },
+                "scale": {
+                  "value": 6
+                }
+              }
+            },
+            {
+              "cells": [
+                "Tot Liabilities",
+                null,
+                "32274.000000",
+                "22750.000000",
+                "19081.000000",
+                "17575.000000"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "FIN"
+                },
+                "scale": {
+                  "value": 6
+                }
+              }
+            },
+            {
+              "cells": [
+                "Tot SH Eq",
+                "142382.406250",
+                "79327.000000",
+                "42978.000000",
+                "22101.000000",
+                "26612.000000"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "FIN"
+                },
+                "scale": {
+                  "value": 6
+                }
+              }
+            },
+            {
+              "cells": [
+                "Net Op CF",
+                "102549.648438",
+                "64089.000000",
+                "28090.000000",
+                "5641.000000",
+                "9108.000000"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "FIN"
+                },
+                "scale": {
+                  "value": 6
+                }
+              }
+            },
+            {
+              "cells": [
+                "Cap Ex",
+                "5714.309082",
+                "3236.000000",
+                "1069.000000",
+                "1833.000000",
+                "976.000000"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "FIN"
+                },
+                "scale": {
+                  "value": 6
+                }
+              }
+            },
+            {
+              "cells": [
+                "FCF",
+                "96778.273438",
+                "60853.000000",
+                "27021.000000",
+                "3808.000000",
+                "8132.000000"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "FIN"
+                },
+                "scale": {
+                  "value": 6
+                }
+              }
+            },
+            {
+              "cells": [
+                "Gross Margin (%)",
+                "71.277084",
+                "74.988697",
+                "72.717573",
+                "56.928894",
+                "64.929033"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "RAT"
+                },
+                "valueType": {
+                  "value": "PERCENTAGE"
+                }
+              }
+            },
+            {
+              "cells": [
+                "Operating Margin (%)",
+                "62.241447",
+                "62.417527",
+                "54.121664",
+                "20.675465",
+                "37.307721"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "RAT"
+                }
+              }
+            },
+            {
+              "cells": [
+                "Pre Tax Margin (%)",
+                "62.910709",
+                "64.389220",
+                "55.510325",
+                "15.500111",
+                "36.936167"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "RAT"
+                }
+              }
+            },
+            {
+              "cells": [
+                "Net Margin (%)",
+                "53.267303",
+                "55.848027",
+                "48.849348",
+                "16.193371",
+                "36.233930"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "RAT"
+                },
+                "valueType": {
+                  "value": "PERCENTAGE"
+                }
+              }
+            },
+            {
+              "cells": [
+                "Free Cash Flow Margin (%)",
+                "46.687878",
+                "46.631723",
+                "44.353436",
+                "14.117298",
+                "30.214758"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "RAT"
+                }
+              }
+            },
+            {
+              "cells": [
+                "ROA (%)",
+                "59.834747",
+                "82.197497",
+                "55.672996",
+                "10.233223",
+                "26.725863"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "RAT"
+                },
+                "valueType": {
+                  "value": "PERCENTAGE"
+                }
+              }
+            },
+            {
+              "cells": [
+                "ROE (%)",
+                "75.124229",
+                "119.177466",
+                "91.458074",
+                "17.933611",
+                "44.831629"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "RAT"
+                },
+                "valueType": {
+                  "value": "PERCENTAGE"
+                }
+              }
+            },
+            {
+              "cells": [
+                "Current Ratio",
+                "5.743305",
+                "4.439851",
+                "4.171292",
+                "3.515618",
+                "6.650288"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "RAT"
+                },
+                "valueType": {
+                  "value": "RATIO"
+                }
+              }
+            },
+            {
+              "cells": [
+                "Quick Ratio",
+                "5.077250",
+                "3.881310",
+                "3.674443",
+                "2.729544",
+                "6.049366"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "RAT"
+                },
+                "valueType": {
+                  "value": "RATIO"
+                }
+              }
+            },
+            {
+              "cells": [
+                "TDebt%TEQ",
+                "6.203950",
+                "12.946412",
+                "25.724789",
+                "54.436451",
+                "44.457388"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "RAT"
+                },
+                "valueType": {
+                  "value": "PERCENTAGE"
+                }
+              }
+            },
+            {
+              "cells": [
+                "Interest Coverage",
+                "577.265930",
+                "329.769231",
+                "128.295720",
+                "21.286260",
+                "42.546610"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "RAT"
+                },
+                "valueType": {
+                  "value": "RATIO"
+                }
+              }
+            },
+            {
+              "cells": [
+                "Asset Turn",
+                "1.123292",
+                "1.471807",
+                "1.139688",
+                "0.631939",
+                "0.737592"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "RAT"
+                },
+                "valueType": {
+                  "value": "RATIO"
+                }
+              }
+            },
+            {
+              "cells": [
+                "Inventory Turn",
+                null,
+                "4.249316",
+                "3.183795",
+                "2.992787",
+                "4.260438"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "RAT"
+                },
+                "valueType": {
+                  "value": "RATIO"
+                }
+              }
+            },
+            {
+              "cells": [
+                "Revenue/EMPs",
+                null,
+                "3624916.666667",
+                "2058175.675676",
+                "1029699.190716",
+                "1197614.915677"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "RAT"
+                },
+                "valueType": {
+                  "value": "RATIO"
+                }
+              }
+            },
+            {
+              "cells": [
+                "DSO",
+                null,
+                "46.239990",
+                "41.417632",
+                "57.353470",
+                "48.001691"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "RAT"
+                },
+                "valueType": {
+                  "value": "RATIO"
+                }
+              }
+            },
+            {
+              "cells": [
+                "DPO",
+                null,
+                "43.917699",
+                "42.420650",
+                "38.323429",
+                "53.296342"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "RAT"
+                },
+                "valueType": {
+                  "value": "RATIO"
+                }
+              }
+            },
+            {
+              "cells": [
+                "DPS",
+                "0.039992",
+                "0.034000",
+                "0.016000",
+                "0.016000",
+                "0.016000"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "RAT"
+                },
+                "valueType": {
+                  "value": "RATIO"
+                }
+              }
+            },
+            {
+              "cells": [
+                "Bk PS",
+                "6.019307",
+                "3.240880",
+                "1.744240",
+                "0.896230",
+                "1.061930"
+              ],
+              "cellDetails": {
+                "0": {
+                  "groupLevel": 1
+                }
+              },
+              "rowMetadata": {
+                "metric": {
+                  "value": "RAT"
+                },
+                "valueType": {
+                  "value": "RATIO"
+                }
+              }
+            }
+          ],
+          "tableMetadata": {
+            "currencyCode": {
+              "value": "USD"
+            },
+            "currencySymbol": {
+              "value": "$"
+            },
+            "notes": {
+              "value": [
+                "All figures based on Standardized GAAP/IFRS. Estimates follow broker majority."
+              ]
+            },
+            "periodicity": {
+              "value": "ANN"
+            },
+            "sources": {
+              "value": [
+                "FactSet Fundamentals",
+                "FactSet Estimates"
+              ]
+            }
+          },
+          "columnMetadata": {
+            "1": {
+              "items": {
+                "category": {
+                  "value": "ESTIMATE"
+                }
+              }
+            },
+            "2": {
+              "items": {
+                "category": {
+                  "value": "ACTUAL"
+                }
+              }
+            },
+            "3": {
+              "items": {
+                "category": {
+                  "value": "ACTUAL"
+                }
+              }
+            },
+            "4": {
+              "items": {
+                "category": {
+                  "value": "ACTUAL"
+                }
+              }
+            },
+            "5": {
+              "items": {
+                "category": {
+                  "value": "ACTUAL"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "meta": {
+    "requestId": "NVDA",
+    "fsymId": "K7TPSX-R",
+    "entityType": "PUBLIC_COMPANY",
+    "industry": "IND"
+  }
+}
